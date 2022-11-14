@@ -32,6 +32,7 @@ const Footer = () => {
 						<img src={Copyright} alt='Copyright' className="h-[10px]" />
 						<p className='lg:ml-3 ml-1 text-xs'>2022 Metabnb</p>
 					</div>
+					{/* Lst */}
 				</div>
 				{FooterData.map((item, id) => (
 					<div key={id} className='flex flex-col items-start'>
