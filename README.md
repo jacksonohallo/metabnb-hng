@@ -8,10 +8,10 @@
 
 ## Tech Stack ✨
 
-- [React.js](https://reactjs.org/) - UI Library
-- [Tailwind CSS](https://tailwindcss.com/) - Styling and UI
-- [Create React App](https://create-react-app.dev/) - Build tool
-- [Netlify](https://www.netlify.com/) - Hosting and Deployment
+- [React.js]- UI Library
+- [Tailwind CSS]- Styling and UI
+
+
 
 ## How to run locally 💻
 
@@ -20,7 +20,7 @@ Follow these steps to run Metabnb in your local machine.
 ### Clone this repository
 
 ```bash
-git clone https://github.com/Pappyjay23/metabnb.git
+https://github.com/jacksonohallo/metabnb-hng
 ```
 
 ### Navigate to directory
@@ -50,7 +50,3 @@ Now, you can navigate to http://localhost:3000/ to view the app.
 ```bash
 npm run build
 ```
-
-## Credits ✍
-
-Implementation by [@Pappyjay23](https://github.com/Pappyjay23)
