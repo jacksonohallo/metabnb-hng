@@ -1,5 +1,5 @@
 import React from "react";
-import CTABanner from "../assets/images/ctaImg.png";
+import Banner from "../assets/images/ctaImg.png";
 
 const Banner = () => {
 	return (
@@ -19,7 +19,7 @@ const Banner = () => {
 					</button>
 				</div>
 				<div className='md:w-[70%] hidden mx-auto lg:block lg:w-[50%]'>
-					<img src={CTABanner} alt='Banner' />
+					<img src={Banner} alt='Banner' />
 				</div>
 			</div>
 		</div>
